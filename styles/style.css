@@ -1,0 +1,23 @@
+.products {
+    position: relative;
+    clear: both;
+}
+
+.product-card {
+    float: left;
+    border: 1px solid lightslategray;
+    margin-left: 30px;
+    padding-top: 13px;
+}
+
+.card {
+    border: none;
+}
+
+.buy-btn {
+    font-size: small;
+}
+
+.product-item {
+    width: 140px;
+}
